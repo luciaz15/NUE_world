@@ -7,3 +7,8 @@ Nitrogen is an important element for agricultural productivity because it is one
 Nitrogen use efficiency (NUE) is a term used to help control the over-application of N fertilizers. NUE is a measurement of how efficiently a crop can uptake nitrogen. Usually, NUE is calculated as a ratio between the nitrogen uptake with the harvested crop and the nitrogen applied in the fertilizer.
 
 ### Questions
+These are the following questions I will be tried to answer:
+
+* How does cereal's yield changes with time?
+* How does nitrogen use efficiency (NUE) varies in the last 20 years?
+* How does nitrogen use efficiency (NUE) compares between Austrualia, Brazil, China, India, France and United States?
